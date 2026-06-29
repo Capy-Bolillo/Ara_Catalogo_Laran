@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 import { resolve } from 'path'
 
 export default defineConfig({
+  base: '/Ara_Catalogo_Laran/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
