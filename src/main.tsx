@@ -1,5 +1,3 @@
-import '@fontsource/geist'
-import '@fontsource/geist-mono'
 import './index.css'
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
